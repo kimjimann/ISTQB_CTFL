@@ -98,3 +98,26 @@ ISTQB 참고자료
  - 테스트 분석 작업 산출물 (Test analysis work products)
    1. 테스트 컨디션은 테스트 분석 작업 산출물
  - 테스트 설계 작업 산출물 (Test design work products)
+   1. 테스트 컨디션을 실행할 수 있는 테스트 케이스와 테스트 케이스 세트
+ - 테스트 구현 작업 산출물 (Test implementation work products)
+   1. 테스트 프로시저, 테스트 스위트, 테스트 실행 일정
+ - 테스트 실행 작업 산출물 (Test execution work products)
+   1. 테스트 케이스나 프로시저의 상태에 대한 문서(실행 준비 완료, pass, fail, blocked 등등)
+   2. 결함 보고서
+   3. 테스트 항목, 대상, 도구 등에 대한 문서
+ - 테스트 완료 작업 산출물 (Test completion work products)
+   1. 테스트 요약 보고서
+   2. 수정 요청서 or 제품 백로그 항목
+
+1.4.4 테스트 베이시스와 테스트 작업 산출물 간의 추적성 (Traceability between the Test Basis andTest Work Products)
+ - 좋은 추적성은 아래와 같은 장점 제공
+    1. 수정으로 인한 영향 평가를 가능
+    2. 테스팅에 대한 감사(audit)를 가능
+    3. IT 통제(IT governance) 조건을 충족
+    4. 테스트 베이시스 상태 정보를 제공해 테스트 진행 상황, 요약 보고서 이해를 도움
+    5. 기술적인 내용을 이해관계자가 알아듣는 형태로 제공
+    6. 제품 품질, 프로세스 역량, 프로젝트 진행 상황 평가에 대한 정보 제공
+  
+# 1.5 테스팅의 심리학 The Psychology of Testing
+
+1.5.1 인간 심리학과 테스팅 (Human Psychology and Testing)
